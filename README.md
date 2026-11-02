@@ -18,7 +18,7 @@ A cosmic image and video gallery for the SpaceTime Navigators Guild. Explore cur
 
 Want to create your own version of this project with all the content and structure? Clone this Cosmic bucket and code repository to get started instantly:
 
-[![Clone this Project](https://img.shields.io/badge/Clone%20this%20Project-29abe2?style=for-the-badge&logo=cosmic&logoColor=white)](https://app.cosmicjs.com/projects/new?clone_bucket=6a32e480cb5ebdc3473308bd&clone_repository=6a32e55dcb5ebdc3473308e8)
+[![Clone this Project](https://img.shields.io/badge/Clone%20this%20Project-29abe2?style=for-the-badge&logo=cosmic&logoColor=white)](https://app.cosmicjs.com/projects/new?clone_bucket=6ae88463c0a9f962145b4041&clone_repository=6a32e55dcb5ebdc3473308e8)
 
 ## Prompts
 
